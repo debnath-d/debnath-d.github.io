@@ -5,6 +5,8 @@ module.exports = {
 
     themeConfig: {
         // logo: 'https://vuejs.org/images/logo.png',
+        contributorsText: 'Author',
+        editLink: false,
     },
     markdown: {
         extractHeaders: {
