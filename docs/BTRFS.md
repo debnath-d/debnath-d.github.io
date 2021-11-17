@@ -8,7 +8,7 @@ title: Title of this page
 description: Description of this page
 --- -->
 
-# The ideal BTRFS setup on Arch Linux
+# My ideal BTRFS setup on Arch Linux
 
 In this post, I'll describe how I managed to fix some problems with my encrypted BTRFS (with snapper) setup in Arch Linux after some hit and trial. Although the venerable [Arch Wiki](https://wiki.archlinux.org) has most of the information presented here, it had some missing pieces and the information in the wiki is scattered over many entries. I've tried to compile everything into one cohesive piece here.
 
